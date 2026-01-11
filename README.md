@@ -1,4 +1,4 @@
-Aplikacja pogodowa stworzona w React jako projekt zaliczeniowy na studiach. Wyświetla aktualną pogodę i prognozę 5-dniową dla dowolnego miasta na świecie.
+52779 - Aplikacja pogodowa stworzona w React jako projekt zaliczeniowy na studiach. Wyświetla aktualną pogodę i prognozę 5-dniową dla dowolnego miasta na świecie.
 
 Projekt został stworzony w ramach zaliczenia przedmiotu **Programowanie Frontend** na studiach. Główne cele:
 
